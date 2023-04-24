@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcrdQHZh40HPhd9tQ+t01nP25ttsuubptZgfChTZe3nZ8ySmgpM0q5x4oh4WZDKskO0HLNoUfCXFdhUmyYHghw==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos .NET\\Agency.Api\\Agency.Entities\\Agency.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yorman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yorman\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\yorman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

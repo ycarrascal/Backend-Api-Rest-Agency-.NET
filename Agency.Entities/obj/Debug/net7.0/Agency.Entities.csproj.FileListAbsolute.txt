@@ -1,0 +1,12 @@
+D:\proyectos .NET\Agency.Api\Agency.Entities\bin\Debug\net7.0\Agency.Entities.deps.json
+D:\proyectos .NET\Agency.Api\Agency.Entities\bin\Debug\net7.0\Agency.Entities.dll
+D:\proyectos .NET\Agency.Api\Agency.Entities\bin\Debug\net7.0\Agency.Entities.pdb
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.csproj.AssemblyReference.cache
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.AssemblyInfoInputs.cache
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.AssemblyInfo.cs
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.csproj.CoreCompileInputs.cache
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.dll
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\refint\Agency.Entities.dll
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\Agency.Entities.pdb
+D:\proyectos .NET\Agency.Api\Agency.Entities\obj\Debug\net7.0\ref\Agency.Entities.dll

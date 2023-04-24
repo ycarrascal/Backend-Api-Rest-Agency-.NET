@@ -1,0 +1,15 @@
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\bin\Debug\net7.0\Agency.Bussiness.deps.json
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\bin\Debug\net7.0\Agency.Bussiness.dll
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\bin\Debug\net7.0\Agency.Bussiness.pdb
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\bin\Debug\net7.0\Agency.Entities.dll
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\bin\Debug\net7.0\Agency.Entities.pdb
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.csproj.AssemblyReference.cache
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.AssemblyInfoInputs.cache
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.AssemblyInfo.cs
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.csproj.CoreCompileInputs.cache
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.csproj.CopyComplete
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.dll
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\refint\Agency.Bussiness.dll
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\Agency.Bussiness.pdb
+D:\proyectos .NET\Agency.Api\Agency.Bussiness\obj\Debug\net7.0\ref\Agency.Bussiness.dll
